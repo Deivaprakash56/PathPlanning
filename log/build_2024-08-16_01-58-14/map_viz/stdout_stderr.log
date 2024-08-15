@@ -1,0 +1,25 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/grip_map_generator.dir/scripts/gridmap_generator.cpp.o[0m
+[01m[K/home/deiva/My_code_development/PathPlanning/map_viz/scripts/gridmap_generator.cpp:[m[K In member function ‘[01m[Kvoid MapData::get_map_callback(std::shared_ptr<nav_msgs::srv::GetMap_Request_<std::allocator<void> > >, std::shared_ptr<nav_msgs::srv::GetMap_Response_<std::allocator<void> > >)[m[K’:
+[01m[K/home/deiva/My_code_development/PathPlanning/map_viz/scripts/gridmap_generator.cpp:106:81:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  106 |     void get_map_callback([01;35m[Kconst std::shared_ptr<nav_msgs::srv::GetMap::Request> request[m[K,
+      |                           [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable grip_map_generator[0m
+[100%] Built target grip_map_generator
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/lib/map_viz/grip_map_generator
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/ament_index/resource_index/package_run_dependencies/map_viz
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/ament_index/resource_index/parent_prefix_path/map_viz
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/environment/path.sh
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/environment/path.dsv
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/local_setup.bash
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/local_setup.sh
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/local_setup.zsh
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/local_setup.dsv
+-- Symlinking: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/package.dsv
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/ament_index/resource_index/packages/map_viz
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/cmake/map_vizConfig.cmake
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/cmake/map_vizConfig-version.cmake
+-- Up-to-date symlink: /home/deiva/My_code_development/PathPlanning/install/map_viz/share/map_viz/package.xml
