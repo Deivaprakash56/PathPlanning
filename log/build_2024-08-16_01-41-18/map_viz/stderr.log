@@ -1,4 +1,0 @@
-[01m[K/home/deiva/My_code_development/PathPlanning/map_viz/scripts/gridmap_generator.cpp:[m[K In member function ‘[01m[Kvoid MapData::get_map_callback(std::shared_ptr<nav_msgs::srv::GetMap_Request_<std::allocator<void> > >, std::shared_ptr<nav_msgs::srv::GetMap_Response_<std::allocator<void> > >)[m[K’:
-[01m[K/home/deiva/My_code_development/PathPlanning/map_viz/scripts/gridmap_generator.cpp:91:81:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
-   91 |     void get_map_callback([01;35m[Kconst std::shared_ptr<nav_msgs::srv::GetMap::Request> request[m[K,
-      |                           [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
