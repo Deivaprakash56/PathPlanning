@@ -77,7 +77,7 @@ private:
         char buffer[256];
         if (getcwd(buffer, sizeof(buffer)) != nullptr) {
             std::string path(buffer);
-            path += "/map_viz/maps/grid_map.txt";
+            path += "/src/map_viz/maps/grid_map.txt";
             return path;
         }
         return "";
